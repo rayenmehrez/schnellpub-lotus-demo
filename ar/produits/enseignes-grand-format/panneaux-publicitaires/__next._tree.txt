@@ -1,0 +1,4 @@
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/0b0a9a9bd1cb145b.css","style"]
+:HL["/_next/static/css/b1fa25fe651a243d.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"ar","param":null,"prefetchHints":4208,"slots":{"children":{"name":"produits","param":null,"prefetchHints":4192,"slots":{"children":{"name":"categorie","param":{"type":"d","key":"enseignes-grand-format","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"produit","param":{"type":"d","key":"panneaux-publicitaires","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}}}},"staleTime":300,"buildId":"ryTcGhFhZ3Bj_Mr4qnJqY"}
